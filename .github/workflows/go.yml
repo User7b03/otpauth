@@ -1,4 +1,4 @@
-name: go
+[![go](https://github.com/dim13/otpauth/actions/workflows/go.yml/badge.svg?branch=master&event=create)](https://github.com/dim13/otpauth/actions/workflows/go.yml)name: go
 
 on:
   push:
